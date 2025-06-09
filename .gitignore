@@ -1,0 +1,64 @@
+## Compilación
+bin/
+obj/
+out/
+
+## Configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de configuración de VS Code
+.vscode/
+
+## Configuración de Rider/JetBrains
+.idea/
+
+## Archivos de paquetes y dependencias
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## Archivos temporales
+*.log
+*.tmp
+*.temp
+*.bak
+
+## Archivos de publicación
+publish/
+*.Publish.xml
+
+## Archivos generados por dotnet watch
+**/appsettings.json
+
+## Secretos locales de usuario (no los subas)
+secrets.json
+
+## Archivos de IIS/hosting locales
+.vs/
+wwwroot/
+
+## Archivos del sistema
+Thumbs.db
+ehthumbs.db
+.DS_Store
+desktop.ini
+
+## Archivos de dependencias Node.js (si usas Swagger UI personalizado o frontend)
+node_modules/
+
+## Archivos para pruebas o datos temporales
+TestResults/
+*.coverage
+*.coveragejson
+
+## Archivos específicos de ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Archivos de logs personalizados
+logs/
+*.log

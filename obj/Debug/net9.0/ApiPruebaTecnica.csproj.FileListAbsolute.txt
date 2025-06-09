@@ -169,3 +169,4 @@ C:\Users\ander\OneDrive\Documents\Proyectos\ApiPruebaTecnica\bin\Debug\net9.0\NS
 C:\Users\ander\OneDrive\Documents\Proyectos\ApiPruebaTecnica\bin\Debug\net9.0\NSwag.Generation.dll
 C:\Users\ander\OneDrive\Documents\Proyectos\ApiPruebaTecnica\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
 C:\Users\ander\OneDrive\Documents\Proyectos\ApiPruebaTecnica\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\ander\OneDrive\Documents\Proyectos\ApiPruebaTecnica\obj\Debug\net9.0\ApiPruebaTecnica.sourcelink.json
